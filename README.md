@@ -1,2 +1,1 @@
-# ngs
-Next Generation Sequencing
+# Next Generation Sequencing
